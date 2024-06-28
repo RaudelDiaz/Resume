@@ -8,6 +8,8 @@ Born in April 14- 1998 in [Cuba](https://en.wikipedia.org/wiki/Cuba)
 
 ## Work History
 1. [WFS](https://www.wfs.aero/) DFW Airport, [Avianca airline](https://www.avianca.com/en/about-us/we-are-avianca/) - Customer service agent Lead 01/2024 - Current ✈️
+
+   ![av s](https://github.com/RaudelDiaz/Resume/assets/172452858/f7d73e50-ad79-4fcc-811d-b03ced8a8947)
      -  **Duties**
          - Prepare documentation prior to flight arrival or flight departure,review, organize, make copies and distribute accordingly
          -  Travel to Airport Operational Area (AOA) to meet flight upon arrival or departure of flight to retrieve or drop off flight documents
@@ -24,7 +26,10 @@ Born in April 14- 1998 in [Cuba](https://en.wikipedia.org/wiki/Cuba)
          -  Prepare various reports (Irregularity, Weekly Import and/or Export Statistics) +Answer incoming calls and responds to emails
          -  Demonstrate diligence required to maintain security under the Airport Police, *TSA* and United
       
-2. AST and ASC for [Matrix Aviation](https://www.aviation-matrix.com/) DFW International Airport - ASC / AST  04/2023 - 12/2023 ✈️ 
+3. AST and ASC for [Matrix Aviation](https://www.aviation-matrix.com/) DFW International Airport - ASC / AST  04/2023 - 12/2023 ✈️
+
+    ![matrix s](https://github.com/RaudelDiaz/Resume/assets/172452858/27cd58be-9efa-4bf8-8521-ff0340c14f29)
+
      -  **Duties**
          - I first started as an ASC, taking care of customer service, documenting bags, handling all passengers' needs, and conducting security questions about luggage
          - Processed all current passengers through the boarding system, recorded and properly scanned their documents, and ensured correct identity matching the passport with the client
@@ -38,7 +43,7 @@ Born in April 14- 1998 in [Cuba](https://en.wikipedia.org/wiki/Cuba)
          - Inspect the plane to find any damage or risky maintenance issues.
       
            
-3. Wehner Multifamily - Property Manager 05/2019 - 10/2022  🏠
+5. Wehner Multifamily - Property Manager 05/2019 - 10/2022  🏠
                                                        
      - **Duties**
         - I primarily worked with customers' needs, so the owners and management company, looking to improve the status of my property as well maintain a good living experience for all tenants
@@ -67,7 +72,12 @@ Born in April 14- 1998 in [Cuba](https://en.wikipedia.org/wiki/Cuba)
 
 ## Skills
    - Language skills functionally bilingual (English Spanish) lm able to translate and interpret in a given language
+   - Interpersonal skills: able to interact successfully with a wide range of people; knows how to interpret and use body language
+   - Oral communication skills present information and ideas clearly and concisely, with content and style appropriate for the audience (whether one-to-one or in a group); presents opinions and concepts in an open, objective way
+   - Supervising skills delegates responsibilities and establishes an appropriate system of accountability; able to monitor progress and assess the quality of job performance of others
+   - Customer service skills: able to build a relationship of mutual trust with clients; able to handle complaints and concerns in a sensitive way
+   - Advanced computer skills, able to use a variety of software programs.
+   - Research skills: knowing how to find and collect relevant background information; able to analyze data, summarize findings, and write a report
+[ ] https://github.com/octo-org/octo-repo/issues/740
 
 
-  asdasd[^1]
-   
