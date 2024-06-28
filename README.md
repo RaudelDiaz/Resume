@@ -63,7 +63,7 @@ Born in April 14- 1998 in [Cuba](https://en.wikipedia.org/wiki/Cuba)
        - Supervising both properties (Oakland Heights) and (Chalet Apartments) + Collect rent and other fees from tenants and applicants and deposit them into the bank account weekly
        - Advertising available properties and conducting property tours as part of marketing activities
        - Collect and store confidential tenant documents such copy of identifications and leases
-       - Ensure a correct and daily marketing plan to keep the property above the occupancy percentage, which was 95% +Going to court to proceed with evictions of delinquent tenants who fail to pay rent within the month per company policy
+       - Ensure a correct and daily marketing plan to keep the property above the occupancy percentage, which was 95% plus Going to court to proceed with evictions of delinquent tenants who fail to pay rent within the month per company policy
        - All work duties from a leasing agent include examining properties, informing maintenance staff of issues, and screening prospective tenants to ensure they meet eligibility requirements
        - Receiving constant phone calls from tenants about maintenance issues and general inquiries
        - Contact competent vendors, such as pest control services companies, Deford's, and Johnston
