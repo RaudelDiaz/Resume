@@ -4,7 +4,7 @@
 Pursuing an opportunity that allows me to grow while utilizing my versatile skill set to help promote your corporate mission and exceed the team's goals.
 Extremely motivated and passionate. Strong interpersonal and communication skills, dealing with different people and circumstances. Effective under pressure with little or high supervision and interdependent in cooperation with a team. Proficient in Excel, Word, PowerPoint, and typing. Fluent in Spanish and English.
 
-Born in April 14- 1998 in [Cuba](https://en.wikipedia.org/wiki/Cuba)
+Born in April 14- 1998 , [Cuba](https://en.wikipedia.org/wiki/Cuba)
 
 
 ## Contact info
