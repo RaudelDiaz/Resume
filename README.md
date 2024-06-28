@@ -44,6 +44,9 @@ Born in April 14- 1998 in [Cuba](https://en.wikipedia.org/wiki/Cuba)
       
            
 5. Wehner Multifamily - Property Manager 05/2019 - 10/2022  🏠
+
+
+    ![we s](https://github.com/RaudelDiaz/Resume/assets/172452858/43cac579-d797-4260-9506-3ffaed036a10)
                                                        
      - **Duties**
         - I primarily worked with customers' needs, so the owners and management company, looking to improve the status of my property as well maintain a good living experience for all tenants
@@ -71,13 +74,13 @@ Born in April 14- 1998 in [Cuba](https://en.wikipedia.org/wiki/Cuba)
 
 
 ## Skills
-   - Language skills functionally bilingual (English Spanish) lm able to translate and interpret in a given language
-   - Interpersonal skills: able to interact successfully with a wide range of people; knows how to interpret and use body language
-   - Oral communication skills present information and ideas clearly and concisely, with content and style appropriate for the audience (whether one-to-one or in a group); presents opinions and concepts in an open, objective way
-   - Supervising skills delegates responsibilities and establishes an appropriate system of accountability; able to monitor progress and assess the quality of job performance of others
-   - Customer service skills: able to build a relationship of mutual trust with clients; able to handle complaints and concerns in a sensitive way
-   - Advanced computer skills, able to use a variety of software programs.
-   - Research skills: knowing how to find and collect relevant background information; able to analyze data, summarize findings, and write a report
-[ ] https://github.com/octo-org/octo-repo/issues/740
+   - [X] Language skills functionally bilingual (English Spanish) lm able to translate and interpret in a given language
+   - [X] Interpersonal skills: able to interact successfully with a wide range of people; knows how to interpret and use body language
+   - [X] Oral communication skills present information and ideas clearly and concisely, with content and style appropriate for the audience (whether one-to-one or in a group); presents opinions and concepts in an open, objective way
+   - [X] Supervising skills delegates responsibilities and establishes an appropriate system of accountability; able to monitor progress and assess the quality of job performance of others
+   - [X] Customer service skills: able to build a relationship of mutual trust with clients; able to handle complaints and concerns in a sensitive way
+   - [X] Advanced computer skills, able to use a variety of software programs.
+   - [X] Research skills: knowing how to find and collect relevant background information; able to analyze data, summarize findings, and write a report
+
 
 
