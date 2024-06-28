@@ -6,6 +6,11 @@ Extremely motivated and passionate. Strong interpersonal and communication skill
 
 Born in April 14- 1998 in [Cuba](https://en.wikipedia.org/wiki/Cuba)
 
+### Contact Info:
+  * Email: raudel1498@gmail.com or raudeleduardodiazrodriguez@gmail.com
+  * Cellphone: (469)-510-7822
+
+
 ## Work History
 1. [WFS](https://www.wfs.aero/) DFW Airport, [Avianca airline](https://www.avianca.com/en/about-us/we-are-avianca/) - Customer service agent Lead 01/2024 - Current ✈️
 
