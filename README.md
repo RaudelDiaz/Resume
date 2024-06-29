@@ -1,4 +1,4 @@
-# Raudel Diaz´s Resume  
+# Raudel Diaz  
 ![IMG_5862 new size](https://github.com/RaudelDiaz/Resume/assets/172452858/a6f037a3-320e-46e2-9d23-9a9f9478c42b)
 ### About my self :shipit: : 
 Pursuing an opportunity that allows me to grow while utilizing my versatile skill set to help promote your corporate mission and exceed the team's goals.
